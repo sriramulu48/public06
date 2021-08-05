@@ -1,0 +1,38 @@
+AKAMAI ENABLES ORGANIZATIONS TO FIGHT FRAUD AND REDUCE FRICTION AT THE EDGE WITH ACCOUNT PROTECTOR
+June 16, 2021 at 6:30 AM EDT
+New solution uses Akamai insight combined with behavioral analytics to shield users from account takeover
+CAMBRIDGE, Mass., June 16, 2021 /PRNewswire/ -- Akamai Technologies, Inc. (NASDAQ: AKAM), the world's most trusted solution for protecting and delivering digital experiences, today announces the launch of its new Account Protector solution. Using proprietary behavioral analytics and reputation heuristics, the solution is designed to extend the Akamai Bot Manager solution to also detect and prevent account takeover attacks by human threat actors in real time, without increasing friction for legitimate users. The solution is integrated into the Akamai Intelligent Edge Platform instead of attached at a single point, so it requires no changes to existing applications.
+
+ Akamai Technologies, Inc. logo (PRNewsfoto/Akamai Technologies, Inc.) 
+
+Businesses worldwide face the complex and costly problem of account takeover, where human threat actors seize valuable digital assets — from bank account funds to retail store loyalty points to online game rare items. Account Protector analyzes requests, generating risk and trust indicators to calculate the likelihood that a user is the legitimate account owner or an impersonator. Using machine learning technology, the solution learns and self-tunes as it analyzes subsequent logins for the same set of credentials. This enables legitimate account holders to access their accounts without unnecessary friction while increasing the safety of their accounts.
+
+Account Protector generates a user session risk score in real time during authentication, combining:
+
+User behavioral profiles based on signals like previously observed locations, networks, devices, and activity time. Account Protector does this while complying with data privacy laws and frameworks like GDPR and others.
+Population profiles that give a view of the behavior of a company's user set. Variances in behavior can be compared to the entire population to detect anomalies, even if an individual user is logging in for the first time.
+Reputation data based on observed malicious activity across the network and IP, such as indications of bot activity, one user connecting from multiple locations in a short span of time, attempting to access a large number of users, and a high percentage of failed login attempts. Akamai utilizes its own vast activity databases, leveraging clean and reliable data to analyze for legitimate and malicious activity.
+Account Protector performs these detections in real time, enabling action on the Akamai edge platform and/or incorporation into existing defenses within the web application. With the insights derived from the risk score, organizations can take action on the request at the edge, choosing from options such as allow, alert, block, and more. The solution provides both real-time and historical reporting on users' behavioral activity, which can be consumed by existing fraud tools to enhance understanding of intent and to guide strategic planning.
+
+"As digital assets have become increasingly under threat, Akamai customers have asked us to expand our protections to human-generated fraud. We're addressing this critical need with a highly sophisticated 'digital fingerprint' approach that strengthens protection without placing additional burdens on the end user," said Eric Graham, vice president, Security Product Management, Akamai. "Account Protector is a powerful tool for enhancing trust and user satisfaction, reducing the burden of remediation, and empowering organizations to make better, data-driven security decisions. It's a key element in Akamai's strategy to provide the world's most secure platform for edge computing, and we're proud that customers want us to be a key partner on their digital journeys."
+
+Account Protector is being introduced as a part of Akamai's Platform Update and designed to increase responsiveness and augment security decision-making. For more information about Akamai's Edge Security solutions, visit our Platform Update page.
+
+About Akamai
+Akamai secures and delivers digital experiences for the world's largest companies. Akamai's intelligent edge platform surrounds everything, from the enterprise to the cloud, so customers and their businesses can be fast, smart, and secure. Top brands globally rely on Akamai to help them realize competitive advantage through agile solutions that extend the power of their multi-cloud architectures. Akamai keeps decisions, apps, and experiences closer to users than anyone — and attacks and threats far away. Akamai's portfolio of edge security, web and mobile performance, enterprise access, and video delivery solutions is supported by unmatched customer service, analytics, and 24/7/365 monitoring. To learn why the world's top brands trust Akamai, visit www.akamai.com, blogs.akamai.com, or @Akamai on Twitter. You can find our global contact information at www.akamai.com/locations.
+
+Contacts:
+
+Tim Whitman
+Media Relations                                                                                      
+617-444-3019                                                                         
+twhitman@akamai.com  
+
+Tom Barth
+Investor Relations  
+617-274-7130
+tbarth@akamai.com
+
+CisionView original content to download multimedia:http://www.prnewswire.com/news-releases/akamai-enables-organizations-to-fight-fraud-and-reduce-friction-at-the-edge-with-account-protector-301313277.html
+
+SOURCE Akamai Technologies, Inc.
