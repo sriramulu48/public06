@@ -36,3 +36,89 @@ Photos accompanying this announcement are available at
 http://www.globenewswire.com/NewsRoom/AttachmentNg/aa9b5409-599a-46f3-8b1f-c0462685bf85
 
 http://www.globenewswire.com/NewsRoom/AttachmentNg/c7a0548f-144b-4738-a166-5d9e9612d114
+
+AKAMAI UNVEILS MACHINE LEARNING THAT INTELLIGENTLY AUTOMATES APPLICATION AND API PROTECTIONS AND REDUCES BURDEN ON SECURITY PROFESSIONALS
+June 16, 2021 at 6:30 AM EDT
+Edge platform enhancements increase responsiveness and augment security decision-making
+CAMBRIDGE, Mass., June 16, 2021 /PRNewswire/ -- Akamai Technologies, Inc. (NASDAQ: AKAM), the world's most trusted solution for protecting and delivering digital experiences, today announces platform security enhancements to strengthen protection for web applications, APIs, and user accounts. Akamai's machine learning derives insight on malicious activity from more than 1.3 billion daily client interactions to intelligently automate threat detections, time-consuming tasks, and security logic to help professionals make faster, more trustworthy decisions regarding cyberthreats.
+
+ Akamai Technologies, Inc. logo (PRNewsfoto/Akamai Technologies, Inc.) 
+
+In its May 9 report Top Cybersecurity Threats in 2021, Forrester estimates that due to reasons "exacerbated by COVID-19 and the resulting growth in digital interactions, identity theft and account takeover increased by at least 10% to 15% from 2019 to 2020." The leading global research and advisory firm notes that we should "anticipate another 8% to 10% increase in identity theft and ATO [account takeover] fraud in 2021." With threat actors increasingly using automation to compromise systems and applications, security professionals must likewise automate defenses in parallel against these attacks to manage cyberthreats at pace.
+
+New Akamai platform security enhancements include:
+
+Adaptive Security Engine for Akamai's web application and API protection (WAAP) solutions, Kona Site Defender and Web Application Protector, is designed to automatically adapt protections with the scale and sophistication of attacks, while reducing the effort to maintain and tune policies. The Adaptive Security Engine combines proprietary anomaly risk scoring with adaptive threat profiling to identify highly targeted, evasive, and stealthy attacks. The dynamic security logic intelligently adjusts its defensive aggressiveness based on threat intelligence automatically correlated for each customer's unique traffic. Self-tuning leverages machine learning, statistical models, and heuristics to analyze all triggers across each policy to accurately differentiate between true and false positives.
+
+Audience Hijacking Protection has been added to Akamai Page Integrity Manager to detect and block malicious activity in real time from client-side attacks using JavaScript, advertiser networks, browser plug-ins, and extensions that target web clients. Audience Hijacking Protection is designed to use machine learning to quickly identify vulnerable resources, detect suspicious behavior, and block unwanted ads, pop-ups, affiliate fraud, and other malicious activities aimed at hijacking your audience.
+
+Bot Score and JavaScript Obfuscation have been added to Akamai Bot Manager, laying the foundation for ongoing innovations in adversarial bot management, including the ability to take action against bots aligned with corporate risk tolerance. Bot Score automatically learns unique traffic and bot patterns, and self-tunes for long-term effectiveness; JavaScript Obfuscation dynamically changes detections to prevent bot operators from reverse engineering detections.
+
+Akamai Account Protector is a new solution designed to proactively identify and block human fraudulent activity like account takeover attacks. Using advanced machine learning, behavioral analytics, and reputation heuristics, Account Protector intelligently evaluates every login request across multiple risk and trust signals to determine if it is coming from a legitimate user or an impersonator. This capability complements Akamai's bot mitigation to provide effective protection against both malicious human actors and automated threats.
+
+"At Akamai, our latest platform release is intended to help resolve the tension between security and ease of use, with key capabilities around automation and machine learning specifically designed to intelligently augment human decision-making," said Aparna Rayasam, senior vice president and general manager, Application Security, Akamai. "Smart automation adds immediate value and empowers users with the right tools to generate insight and context to make faster and more trustworthy decisions, seamlessly — all while anticipating what attackers might do next."
+
+For more information about Akamai's Edge Security solutions, visit our Platform Update page.
+
+About Akamai
+Akamai secures and delivers digital experiences for the world's largest companies. Akamai's intelligent edge platform surrounds everything, from the enterprise to the cloud, so customers and their businesses can be fast, smart, and secure. Top brands globally rely on Akamai to help them realize competitive advantage through agile solutions that extend the power of their multi-cloud architectures. Akamai keeps decisions, apps, and experiences closer to users than anyone — and attacks and threats far away. Akamai's portfolio of edge security, web and mobile performance, enterprise access, and video delivery solutions is supported by unmatched customer service, analytics, and 24/7/365 monitoring. To learn why the world's top brands trust Akamai, visit www.akamai.com, blogs.akamai.com, or @Akamai on Twitter. You can find our global contact information at www.akamai.com/locations.
+
+Contacts:
+Tim Whitman
+Media Relations
+617-444-3019
+twhitman@akamai.com
+
+Tom Barth
+Investor Relations
+617-274-7130
+tbarth@akamai.com
+
+ 
+
+CisionView original content to download multimedia:http://www.prnewswire.com/news-releases/akamai-unveils-machine-learning-that-intelligently-automates-application-and-api-protections-and-reduces-burden-on-security-professionals-301313433.html
+
+SOURCE Akamai Technologies, Inc.
+
+AKAMAI UNVEILS MACHINE LEARNING THAT INTELLIGENTLY AUTOMATES APPLICATION AND API PROTECTIONS AND REDUCES BURDEN ON SECURITY PROFESSIONALS
+June 16, 2021 at 6:30 AM EDT
+Edge platform enhancements increase responsiveness and augment security decision-making
+CAMBRIDGE, Mass., June 16, 2021 /PRNewswire/ -- Akamai Technologies, Inc. (NASDAQ: AKAM), the world's most trusted solution for protecting and delivering digital experiences, today announces platform security enhancements to strengthen protection for web applications, APIs, and user accounts. Akamai's machine learning derives insight on malicious activity from more than 1.3 billion daily client interactions to intelligently automate threat detections, time-consuming tasks, and security logic to help professionals make faster, more trustworthy decisions regarding cyberthreats.
+
+ Akamai Technologies, Inc. logo (PRNewsfoto/Akamai Technologies, Inc.) 
+
+In its May 9 report Top Cybersecurity Threats in 2021, Forrester estimates that due to reasons "exacerbated by COVID-19 and the resulting growth in digital interactions, identity theft and account takeover increased by at least 10% to 15% from 2019 to 2020." The leading global research and advisory firm notes that we should "anticipate another 8% to 10% increase in identity theft and ATO [account takeover] fraud in 2021." With threat actors increasingly using automation to compromise systems and applications, security professionals must likewise automate defenses in parallel against these attacks to manage cyberthreats at pace.
+
+New Akamai platform security enhancements include:
+
+Adaptive Security Engine for Akamai's web application and API protection (WAAP) solutions, Kona Site Defender and Web Application Protector, is designed to automatically adapt protections with the scale and sophistication of attacks, while reducing the effort to maintain and tune policies. The Adaptive Security Engine combines proprietary anomaly risk scoring with adaptive threat profiling to identify highly targeted, evasive, and stealthy attacks. The dynamic security logic intelligently adjusts its defensive aggressiveness based on threat intelligence automatically correlated for each customer's unique traffic. Self-tuning leverages machine learning, statistical models, and heuristics to analyze all triggers across each policy to accurately differentiate between true and false positives.
+
+Audience Hijacking Protection has been added to Akamai Page Integrity Manager to detect and block malicious activity in real time from client-side attacks using JavaScript, advertiser networks, browser plug-ins, and extensions that target web clients. Audience Hijacking Protection is designed to use machine learning to quickly identify vulnerable resources, detect suspicious behavior, and block unwanted ads, pop-ups, affiliate fraud, and other malicious activities aimed at hijacking your audience.
+
+Bot Score and JavaScript Obfuscation have been added to Akamai Bot Manager, laying the foundation for ongoing innovations in adversarial bot management, including the ability to take action against bots aligned with corporate risk tolerance. Bot Score automatically learns unique traffic and bot patterns, and self-tunes for long-term effectiveness; JavaScript Obfuscation dynamically changes detections to prevent bot operators from reverse engineering detections.
+
+Akamai Account Protector is a new solution designed to proactively identify and block human fraudulent activity like account takeover attacks. Using advanced machine learning, behavioral analytics, and reputation heuristics, Account Protector intelligently evaluates every login request across multiple risk and trust signals to determine if it is coming from a legitimate user or an impersonator. This capability complements Akamai's bot mitigation to provide effective protection against both malicious human actors and automated threats.
+
+"At Akamai, our latest platform release is intended to help resolve the tension between security and ease of use, with key capabilities around automation and machine learning specifically designed to intelligently augment human decision-making," said Aparna Rayasam, senior vice president and general manager, Application Security, Akamai. "Smart automation adds immediate value and empowers users with the right tools to generate insight and context to make faster and more trustworthy decisions, seamlessly — all while anticipating what attackers might do next."
+
+For more information about Akamai's Edge Security solutions, visit our Platform Update page.
+
+About Akamai
+Akamai secures and delivers digital experiences for the world's largest companies. Akamai's intelligent edge platform surrounds everything, from the enterprise to the cloud, so customers and their businesses can be fast, smart, and secure. Top brands globally rely on Akamai to help them realize competitive advantage through agile solutions that extend the power of their multi-cloud architectures. Akamai keeps decisions, apps, and experiences closer to users than anyone — and attacks and threats far away. Akamai's portfolio of edge security, web and mobile performance, enterprise access, and video delivery solutions is supported by unmatched customer service, analytics, and 24/7/365 monitoring. To learn why the world's top brands trust Akamai, visit www.akamai.com, blogs.akamai.com, or @Akamai on Twitter. You can find our global contact information at www.akamai.com/locations.
+
+Contacts:
+Tim Whitman
+Media Relations
+617-444-3019
+twhitman@akamai.com
+
+Tom Barth
+Investor Relations
+617-274-7130
+tbarth@akamai.com
+
+ 
+
+CisionView original content to download multimedia:http://www.prnewswire.com/news-releases/akamai-unveils-machine-learning-that-intelligently-automates-application-and-api-protections-and-reduces-burden-on-security-professionals-301313433.html
+
+SOURCE Akamai Technologies, Inc.
